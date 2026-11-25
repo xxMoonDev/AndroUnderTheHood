@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output (build.bat). The Windows build goes to GitHub Releases.
+build/
+dist/
+_internal/
+/AndroUnderTheHood.exe
+
+# Packed plugins: build.py creates them from the plugin folders
+plugins/*.7z
+plugins/*/_lib/
+
+# Android helper app build files
+helper/displaytest-app/.gradle/
+helper/displaytest-app/build/
+helper/displaytest-app/app/build/
+helper/displaytest-app/local.properties
+
+# Personal files
+pc_public_key.txt
+AndroUnderTheHood.spec

@@ -1,0 +1,10 @@
+{
+  "id": "camera_test",
+  "name": "Camera test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Finds every camera on the device (listed, hidden vendor sensors and physical sensors behind multi-cameras) and streams the one you pick live. Works over SSH and ADB, as the shell user or root.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mic_test",
+  "name": "Microphone test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Finds every microphone (physical capsules, input devices and inputs the audio HAL declares) and streams the one you pick: live level meters, waveform, spectrum, listen on the PC and record to WAV. Works over SSH and ADB.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "display_test",
+  "name": "Display test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Display and touch tester: full-screen colours, gradients, grid and pixel checker for dead/stuck pixels and banding, a multi-touch test with a live coverage map, a refresh-rate measurement, and the display's specs. Ships a small test app that it installs on first use.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reset_restore",
+  "name": "Reset & Restore",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Back up apps, app data, internal storage, messages, contacts, call log, Wi-Fi and Magisk modules; factory reset; guided setup and USB-debugging; reinstall AndroOpenHeart; restore everything.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

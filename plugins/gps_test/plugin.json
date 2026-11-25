@@ -1,0 +1,10 @@
+{
+  "id": "gps_test",
+  "name": "GPS & location test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Shows the GNSS hardware (chip/firmware, HAL, capabilities, location providers, satellite systems and frequency bands in view) and, while active, takes a location fix every 10 seconds and plots it on a map, joining the logged points in time order. Sky plot, log table, GPX/CSV export. Works over SSH and ADB.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

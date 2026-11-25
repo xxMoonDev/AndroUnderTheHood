@@ -1,0 +1,10 @@
+{
+  "id": "root_workbench",
+  "name": "Root workbench",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Boot images (inspect, save, Magisk-patch a copy, compare slots, flash with backup + verify), Magisk module development (create, edit, pack, test-run, install, log) and an SELinux denial viewer that turns denials into magiskpolicy rules.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

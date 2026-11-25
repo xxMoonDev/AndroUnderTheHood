@@ -1,0 +1,10 @@
+{
+  "id": "network_control",
+  "name": "Network control",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Per-app firewall (Android's own eBPF chain, or iptables on older Android), port forwards & tunnels (adb forward/reverse, SSH relay through nc), and live packet capture to .pcap / Wireshark.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "system_diff",
+  "name": "System diff",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Snapshot system properties, the system / secure / global settings and installed package versions, and see exactly what changed between two snapshots or since a snapshot (after an update, a restore, an install or a module).",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

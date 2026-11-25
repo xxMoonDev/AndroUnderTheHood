@@ -1,0 +1,10 @@
+{
+  "id": "phone_desktop",
+  "name": "Phone desktop",
+  "version": "1.7",
+  "author": "AndroUnderTheHood",
+  "description": "Ubuntu 24.04 + KDE Plasma on the phone (root chroot, or proot without root), on a virtual display, reachable with RustDesk. Install (online or from an offline bundle), start/stop, status, RustDesk password, a phone bridge (clipboard both ways, notifications as Plasma popups, Ubuntu sound on the phone speaker), Android apps of the phone in the Ubuntu start menu (each opens in its own scrcpy-ssh window), Discover software store (also without root), uninstall, and a home-screen widget app (Start / Shut down / Power off), with a live terminal and progress.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

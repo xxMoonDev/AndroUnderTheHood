@@ -1,0 +1,10 @@
+{
+  "id": "app_tools",
+  "name": "App tools",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "APK inspector (manifest, permissions, exported components, signing certificates, native ABIs, tracker SDKs), app data snapshots (save / restore one app's data with correct owners and SELinux labels) and a notification log (device-side root logger + searchable database on the PC).",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

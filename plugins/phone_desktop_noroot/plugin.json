@@ -1,0 +1,10 @@
+{
+  "id": "phone_desktop_noroot",
+  "name": "Phone desktop (no root)",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Ubuntu 24.04 + KDE Plasma on the phone WITHOUT root: runs under proot as Android's shell user (ADB, or SSH with Shizuku), on a virtual display, reachable with RustDesk. Install (online or from the same offline bundle as Phone desktop), start/stop, status, RustDesk password and port, uninstall, with a live terminal and progress. Includes Firefox and, when its .deb is in the files folder, ElixirOffice.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

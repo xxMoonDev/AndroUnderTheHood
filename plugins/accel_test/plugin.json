@@ -1,0 +1,10 @@
+{
+  "id": "accel_test",
+  "name": "Accelerometer test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Finds every acceleration sensor (accelerometer, uncalibrated, limited-axes, gravity, linear acceleration, wake-up and vendor variants, plus the hardware chip behind them) and streams the one you pick: live graph, tilt level, sample rate, noise, and a six-side calibration test. Works over SSH and ADB.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

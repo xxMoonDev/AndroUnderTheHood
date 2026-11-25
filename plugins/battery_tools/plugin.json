@@ -1,0 +1,10 @@
+{
+  "id": "battery_tools",
+  "name": "Battery & checksums",
+  "version": "1.1",
+  "author": "AndroUnderTheHood",
+  "description": "A live Battery window (level, temperature, voltage, current, health, charger), a battery-drain analyser (per-app estimated use, app and kernel wake locks, wake locks held now, plain-language insights) and a 'SHA-256 checksum' item in the file browser's right-click menu.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

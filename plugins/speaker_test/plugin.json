@@ -1,0 +1,10 @@
+{
+  "id": "speaker_test",
+  "name": "Speaker test",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Finds every speaker (output devices with each stereo channel separately, amplifier chips, outputs the audio HAL declares) and plays a sine sweep or tone on the one you pick, left/right/both, with live frequency and the routing Android really used. Works over SSH and ADB.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

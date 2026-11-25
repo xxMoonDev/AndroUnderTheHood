@@ -1,0 +1,10 @@
+{
+  "id": "net_test",
+  "name": "Cell, Wi-Fi & Bluetooth",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Cellular modem, SIMs, serving and neighbour cells (band, frequency, PCI, RSRP/RSRQ/SINR, timing-advance distance), Wi-Fi hardware/connection/scan/channel use/saved networks, Bluetooth adapter/paired/nearby devices, active networks and ping. Live signal graph with event log and CSV export. Controls: Wi-Fi, Bluetooth, mobile data and airplane mode on/off, Wi-Fi connect/disconnect/forget, Bluetooth connect/disconnect.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

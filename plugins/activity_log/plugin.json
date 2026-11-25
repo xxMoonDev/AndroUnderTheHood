@@ -1,0 +1,10 @@
+{
+  "id": "activity_log",
+  "name": "Activity log",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Logs which app is used, which screen or website it shows, and every tap, swipe and button press on it: App > screen / website > taps. Works for every app. Live over SSH/ADB, or recorded on the device in the background and fetched later. Typed text is never logged.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

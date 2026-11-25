@@ -1,0 +1,10 @@
+{
+  "id": "integrity_kit",
+  "name": "Play Integrity",
+  "version": "1.0",
+  "author": "AndroUnderTheHood",
+  "description": "Installs and configures Tricky Store (OSS / original / TEESimulator), Play Integrity Fork or PIF [INJECT] and a Zygisk provider on Magisk, Kitsune, KernelSU or APatch. Downloads official GitHub releases (SHA-256 checked), manages target.txt, security patch and your keybox (with Google revocation check), generates a fingerprint and checks the verdict.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "task_manager",
+  "name": "Task Manager & Resource Monitor",
+  "version": "1.1",
+  "author": "AndroUnderTheHood",
+  "description": "A Windows-style task manager for Android: processes grouped into apps / system / kernel with CPU, memory, disk and threads; a details list; performance graphs for CPU (per core and frequency), memory, storage, network, GPU and temperatures; and resource-monitor views of per-process CPU, memory, disk I/O and network connections. End task, kill, end process tree, suspend/resume, priority and process details.",
+  "api": 1,
+  "main": "plugin.py",
+  "requires": []
+}
